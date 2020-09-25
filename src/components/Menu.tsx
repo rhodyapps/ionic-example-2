@@ -9,6 +9,7 @@ import { setDarkMode } from '../data/user/user.actions';
 
 import './Menu.css'
 
+
 const routes = {
   appPages: [
     { title: 'Schedule', path: '/tabs/schedule', icon: calendarOutline },
